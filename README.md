@@ -8,7 +8,7 @@ other providers cost upward of 165 million dollars each, much of the
 savings is because SpaceX can reuse the first stage. Therefore, if we 
 can determine if the first stage will land, we can determine the cost 
 of a launch. Based on public information and machine learning 
-models, we are going to predict if SpaceX will reuse the first stage.
+models, I had to predict if SpaceX will reuse the first stage.
 
 ## 📄 Questions to be answered 
 - How do variables such as payload mass, launch site, number of 
